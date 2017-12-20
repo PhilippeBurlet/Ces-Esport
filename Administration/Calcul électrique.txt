@@ -1,8 +1,8 @@
-400 watts en moyenne pour un pc type gamer
-nombre de pc prévue(545 avec les exposants et admins)
-35 watts en moyenne pour les écran type gamer
-9 watts pour un switch
-8 watts pour une routteur
+400 Watt en moyenne pour un PC type gamer
+nombre de PC prévu (545 avec les exposants et admins)
+35 Watt en moyenne pour les écran type gamer
+9 Watt pour un switch
+8 Watt pour une routeur
 tension du parc des expo 
 (en base 220 volt)
 <P=U*I>
