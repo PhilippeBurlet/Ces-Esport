@@ -1,0 +1,16 @@
+400 watts en moyenne pour un pc type gamer
+nombre de pc prévue(545 avec les exposants et admins)
+35 watts en moyenne pour les écran type gamer
+9 watts pour un switch
+8 watts pour une routteur
+tension du parc des expo 
+(en base 220 volt)
+<P=U*I>
+I=P/U
+
+I(Pc)=(400*545)/220= 991A
+I(écran)=(35*545)/220= 87A
+I(switch)=(9*60)/220=2.45A
+I(routteur)=(3*8)/220=0.1A(presque inexistant)
+
+Intensité totale: I(t)=991+87+2.45+0.1= 1080.55
