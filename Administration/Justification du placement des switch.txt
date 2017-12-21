@@ -1,0 +1,55 @@
+15*2  			-Distance cable dans l'allée pour rocket league jusqu'en bas de l'allée
+			et * 2 pour le nombre de cable
++9.6*3  		-Distance cable pour la 4ème table et *3 pour les table de 
+			hearthstone, rocket league, PUBG
++6.8*3 			-Distance cable pour la 3ème table et *3 pour les table de 
+			hearthstone, rocket league, PUBG
++4.4*3 			-Distance cable pour la 2ème table et *3 pour les table de 
+			hearthstone, rocket league, PUBG
++1.7*3 			-Distance cable pour la 1ème table et *3 pour les table de 
+			hearthstone, rocket league, PUBG
++4.2*12			-Distance entre les câble situé entre les tables des jeu jusqu'aux switch des tables
+			et *12 pour le nombre de table
++6.5*2 			-Distance dans l'allée pour le switch de PUBG jusqu'en bas de
+			l'allée *2 pour le nombre de cable
++6*2 			-Distance dans l'allée pour le switch de Hearthstone jusqu'en
+			bas de l'allé *2 pour le nombre de cable
++3.6*2 			-Distance entre les cable de l'allée centrale arrivée en bas
+			jusqu'au admins
++33*15 			-Il s'agit du coût des caches câbles utilisée pour proteger les câble seulement 
+			dans l'allée.
+=675.1 euros
+
+
+
+
+9.6*3			-Distance cable pour la 4ème table et *3 pour les table de 
+			hearthstone, rocket league, PUBG jusqu'à l'allée
+6.8*3			-Distance cable pour la 3ème table et *3 pour les table de 
+			hearthstone, rocket league, PUBG jusqu'à l'allée
+4.4*3			-Distance cable pour la 2ème table et *3 pour les table de 
+			hearthstone, rocket league, PUBG jusqu'à l'allée
+1.7*3			-Distance cable pour la 1ème table et *3 pour les table de 
+			hearthstone, rocket league, PUBG jusqu'à l'allée
+4.2*12			-Distance entre les câble située entre les tables des jeu jusqu'aux switchs des tables
+			et *12 pour le nombre de table
+15.2*8			-Distance cable dans l'allée pour rocket league jusqu'en bas de l'allée
+			et * 8 pour le nombre de cable
+6.5*8			-Distance dans l'allée pour le switch de PUBG jusqu'en bas de
+			l'allé *8 pour le nombre de cable
+6*8			-Distance dans l'allée pour le switch de Hearthstone jusqu'en
+			bas de l'allé et *8 pour le nombre de cable
+3.6*24			-Distance entre les câbles située en bas de l'allée pour aller jusqu'au swtch des admins 
+			et *24 pour tous les cables arrivant aux switch des admins
+33*15*2			-coûts necessaire de cache-câble pour ouvrir les câbles 
+			dans l'allés et *15 pour la longueur du cache câble et *2 car un cache cable ne suffit pas pour 24 câbles 
+=1320 euros
+
+L'utilisation de switch permet dans l'exempple présent
+de réduire drastiquement le cout en câble et cache cable
+qui aurait été placé sur les 15m dans l'allée centrale.
+Sans switch, 24 câble serait placée cote à cote  dans 
+l'allée centrale ce qui déjà n'est pas très pratique mais 
+ensuite, si on voulait proteger seulement ces câbles ci,
+il faudrait utiliser 2 cache câble pour proteger tous les 
+câbles d'ou le nombre de cache cable multiplier par 2.
