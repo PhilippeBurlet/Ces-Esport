@@ -16,9 +16,13 @@
 			bas de l'allé *2 pour le nombre de cable
 +3.6*2 			-Distance entre les cable de l'allée centrale arrivée en bas
 			jusqu'au admins
+180.1 metres=2*100m de cables 
+100m de câble catégorie 5=89.95 euros
+donc =189.90 euros
+
 +33*15 			-Il s'agit du coût des caches câbles utilisée pour proteger les câble seulement 
 			dans l'allée.
-=675.1 euros
+=674.91euros
 
 
 
@@ -41,9 +45,13 @@
 			bas de l'allé et *8 pour le nombre de cable
 3.6*24			-Distance entre les câbles située en bas de l'allée pour aller jusqu'au swtch des admins 
 			et *24 pour tous les cables arrivant aux switch des admins
+425.9 mètres=5*100m de câbles (par précaution)
+100m de câbles catégorie 5= 89.95 euros
+donc = 449.75 euros
+
 33*15*2			-coûts necessaire de cache-câble pour ouvrir les câbles 
 			dans l'allés et *15 pour la longueur du cache câble et *2 car un cache cable ne suffit pas pour 24 câbles 
-=1320 euros
+=1439.7 euros
 
 L'utilisation de switch permet dans l'exempple présent
 de réduire drastiquement le cout en câble et cache cable
